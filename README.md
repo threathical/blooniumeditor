@@ -1,0 +1,2 @@
+# blooniumeditor
+editor for bloonium
